@@ -1,1 +1,2 @@
 # Juego-de-Homero
+Desastre Nuclear es un proyecto realizado para la universidad que consiste en un juego que consiste en obtener todas las barras de plutonio repartidas por el mapa. El jugador maneja a Homero representado con la H, cuenta con una linterna para ver si alrededor de el hay obstaculos, propulsores, ratas, donas o las mismas barras que hay que recolectar. El juego termina una vez recolectadas todas las barras o cuando se terminan todos los movimientos disponibles.
